@@ -1,0 +1,24 @@
+ipykernel
+python-dotenv
+langchain
+langchain-community
+pypdf #for loading PDF's
+bs4 #for scraping web pages data
+arxiv #for loading arxiv papers
+pymupdf #for loading PDF's(similar to pypdf, but used with Arxiv) 
+wikipedia #for loading Wikipedia articles
+langchain-text-splitters #for splitting text into smaller chunks
+langchain-openai #for using OpenAI models
+chromadb
+sentence_transformers #for embedding text
+langchain_huggingface #for using Hugging Face models
+tqdm #for progress bars
+faiss-cpu
+langchain_chroma #for using ChromaDB with LangChain
+langchain-groq #for using Groq models
+langchain-core # for core LangChain functionality
+fastapi # for building APIs
+uvicorn # for running FastAPI applications
+langserve # for serving LangChain applications
+sse_starlette # for server-sent events in FastAPI
+langgraph # for agentic applications in LangChain

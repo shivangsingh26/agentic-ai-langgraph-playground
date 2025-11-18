@@ -1,0 +1,18 @@
+.env 
+.venv/
+Langchain/Data
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+venAgenticAIBootCamp/
+*.pkl
+*.faiss
+*.bin
+*.sqlite3
